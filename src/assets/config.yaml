@@ -1,5 +1,5 @@
 webrtc:
-  key: f317d13f-f01c-4c04-b064-2607f942b3d8
+  key: d99f351b-f47b-4d2f-874d-9e40afacb023
   config: #未使用
     iceServers: #未使用
       - url: stun:stun.skyway.io:3478
